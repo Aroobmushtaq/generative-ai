@@ -1,5 +1,5 @@
-
 # Install required packages
+!pip install -q gradio faiss-cpu sentence-transformers python-docx PyMuPDF requests
 import gradio as gr
 import fitz
 import docx
