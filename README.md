@@ -1,4 +1,5 @@
 **📄 RAG PDF/DOCX QA App with Groq API + Gradio UI**
+<br>
 This is a simple Retrieval-Augmented Generation (RAG) application built in Google Colab. It allows users to:
 
 Upload PDF or DOCX documents
