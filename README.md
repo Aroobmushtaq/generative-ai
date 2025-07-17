@@ -1,4 +1,4 @@
-**📄 RAG PDF/DOCX QA App with Groq API + Gradio UI**
+# 📄 RAG PDF/DOCX QA App with Groq API + Gradio UI
 <br>
 This is a simple Retrieval-Augmented Generation (RAG) application built in Google Colab. It allows users to:
 
@@ -10,7 +10,7 @@ Get accurate answers using Groq's LLaMA 3 models
 
 Use Gradio for a clean and interactive interface
 
-**💻 Features**
+## 💻 Features
 ✅ Upload .pdf or .docx files
 <br>
 ✅ Automatically extract text content
@@ -23,7 +23,8 @@ Use Gradio for a clean and interactive interface
 <br>
 ✅ Simple and secure UI with API key input
 
-**🚀 How to Run**
+## 🚀 How to Run
+<br>
 🧠 Note: This project runs in Google Colab, no local installation needed.
 <br>
 Open this notebook in Google Colab
