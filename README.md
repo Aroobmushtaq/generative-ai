@@ -12,15 +12,20 @@ Use Gradio for a clean and interactive interface
 
 **💻 Features**
 ✅ Upload .pdf or .docx files
+<br>
 ✅ Automatically extract text content
+<br>
 ✅ Embed document with FAISS vector search
+<br>
 ✅ Ask questions in natural language
+<br>
 ✅ Powered by Groq's LLaMA3-8B/70B
+<br>
 ✅ Simple and secure UI with API key input
 
 **🚀 How to Run**
 🧠 Note: This project runs in Google Colab, no local installation needed.
-
+<br>
 Open this notebook in Google Colab
 
 Run the first cell to install dependencies:
